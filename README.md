@@ -1,5 +1,3 @@
-# chanakya_diligent
-
 # Diligent – Exercise
 
 This repo captures three deliverables:
